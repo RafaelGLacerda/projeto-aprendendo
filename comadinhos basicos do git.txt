@@ -1,0 +1,14 @@
+git init
+git status
+git commit -m ""
+git push
+git pull
+git clone
+git clone -b main/master/develop/staging
+git remote add origin "link github"
+git add .
+git config --global user.name/email ""
+git checkout main/master/etc
+git branch
+git merge main/master/etc
+git reset easy/hard
